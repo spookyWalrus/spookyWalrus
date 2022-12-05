@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @spookyWalrus
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m Zen Nakamura  @spookyWalrus
+- 👀 I’m interested in Full-Stack web Development
 - 🌱 I’m currently learning and refining: React, React Native, PostgreSQL and more!
 
 <!---
