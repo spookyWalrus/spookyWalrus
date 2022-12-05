@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zen Nakamura  @spookyWalrus
-- 👀 I’m interested in Full-Stack web Development
-- 🌱 I’m currently learning and refining: React, React Native, PostgreSQL and more!
+- 👋 Hi, I’m Zen Nakamura  
+- 👀 I’m interested in Full-Stack web Development with HTML, Css, Javascript, React, PHP and MySQL and PostgreSQL databases.
+- 🌱 I’m constantly learning and refining my skills. Currently, I'm refning my skills to build apps with React Native.
 
 <!---
 spookyWalrus/spookyWalrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
