@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zen Nakamura  
-- 👀 I’m interested in Full-Stack web Development with HTML, Css, Javascript, React, PHP and MySQL and PostgreSQL databases.
+- 👀 I’m interested in Full-Stack web Development with HTML, Css, Javascript, React, Node, PHP, MySQL and PostgreSQL databases.
 - 🌱 I’m constantly learning and refining my skills. Currently, I'm refning my skills to build apps with React Native.
 
 <!---
