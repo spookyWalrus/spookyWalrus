@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zen Nakamura  
 - 👀 I take on Front-End Web Development with ReactJS.
-- 🌱 I’m constantly learning and refining my skills. Currently, I'm refning my skills to build apps with React Native and Redux.
+- 🌱 I’m constantly learning and refining my skills. Currently, I'm refning my skills to incorporate Typescript, React Native and Redux with my projects.
 
 - My tech stack is: HTML, CSS, Javascript, Typescript, React, React-query, React-router, Node, Express, MySQL, PostgreSQL and CypressIO.
 
