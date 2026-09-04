@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zen Nakamura  
+- 👋 Hi, I’m Spooky Walrus 
 - 👀 I take on Front-End Web Development with ReactJS.
 - 🌱 I’m constantly learning and refining my skills. Currently, I'm refning my skills to incorporate Typescript, React Native and Redux with my projects.
 
